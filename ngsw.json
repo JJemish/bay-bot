@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1755247816175,
+  "timestamp": 1755250073440,
   "index": "/bay-bot/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/bay-bot/favicon.ico",
         "/bay-bot/index.html",
-        "/bay-bot/main.1ce9dbba093b6b93.js",
+        "/bay-bot/main.c701790afdd7b310.js",
         "/bay-bot/manifest.webmanifest",
         "/bay-bot/polyfills.d7ac3e4787046e9a.js",
         "/bay-bot/runtime.15ffa4f96b905bcf.js",
@@ -106,8 +106,8 @@
     "/bay-bot/fa-solid-900.174bea58d33b35a5.woff2": "f5f3d18d4b9d3e7f339fbdcc8ad1975657665f91",
     "/bay-bot/fa-v4compatibility.25cfd40cb64ecf7c.woff2": "e346f8b0d6fa5ce68c1d5a41f66355578361449e",
     "/bay-bot/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/bay-bot/index.html": "30bcc21d8094c3d098e68555d9919d7e0a984aa7",
-    "/bay-bot/main.1ce9dbba093b6b93.js": "9781b3d52f217e9fcb0ef3c8780a0a305c3b99fa",
+    "/bay-bot/index.html": "5877506f9ddfdb3135271452eaed342323f9ac24",
+    "/bay-bot/main.c701790afdd7b310.js": "d796b764b2031ef0c6dcf6997a5c281a6b176bf9",
     "/bay-bot/manifest.webmanifest": "64325972be58e2645d8fb8f41697a928a327efcc",
     "/bay-bot/polyfills.d7ac3e4787046e9a.js": "c39ad9073150a8512a0738932ac8c4b199bed4d7",
     "/bay-bot/runtime.15ffa4f96b905bcf.js": "bf7e2c9ff121e7762837def0abe08d30077574a0",
